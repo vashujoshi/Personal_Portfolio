@@ -1,0 +1,3 @@
+rafce for boiler plate in component
+ctrl +k and ctrl +f to find things in a page
+learn lottie and copy email using react states
