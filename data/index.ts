@@ -85,7 +85,7 @@ export const navItems = [
       des:"A game for adventure and story lovers",
       img: "interactive game main.jpg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      link: "https://github.com/vashujoshi/internship_projects/tree/master",
     },
     {
       id: 3,
@@ -93,7 +93,7 @@ export const navItems = [
       des: "A chat room based real time chat application.",
       img: "chat.jpg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
+      link: "https://github.com/vashujoshi/internship_projects/tree/master",
     },
     {
       id: 4,
@@ -101,7 +101,7 @@ export const navItems = [
       des:"chatbot using open ai and lama index",
       img: "CHATBOT.JPG",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      link: "https://github.com/vashujoshi/internship_projects/tree/master",
     },
     
   ];
