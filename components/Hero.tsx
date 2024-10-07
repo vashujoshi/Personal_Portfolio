@@ -26,7 +26,7 @@ const Hero = () => {
     words="Here I Transform my dreams into reality "
     ></TextGenerateEffect>
     <p className=''>
-      Hey I&apos;m Vaibhav , a Nextjs Developer based in india. 
+      Hey I&apos;m Vaibhav, a Full-Stack Developer specializing in Spring and Next.js, based in India. 
     </p>
     <a href="#about">
       <Magicbutton 
